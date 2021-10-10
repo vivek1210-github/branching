@@ -2,3 +2,4 @@ flowers
 books
 keys
 notepads
+images
