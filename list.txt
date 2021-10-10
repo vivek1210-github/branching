@@ -3,3 +3,5 @@ books
 keys
 notepads
 images
+laptops
+programming
