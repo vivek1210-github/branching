@@ -5,3 +5,8 @@ notepads
 images
 laptops
 programming
+webdevelopment
+React
+Angular
+Frontenddev
+MERN STACK
